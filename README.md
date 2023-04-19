@@ -1,5 +1,5 @@
 # The use of mixed reality to control collaborative robots
-This is the replication package for the paper entitled as "", submitted to CHI 2024.
+This is the replication package for the paper entitled as "", submitted to TOCHI 2024.
 
 We divided this package in directories as follows:
 - resources: Contains the assets used during the execution of the experiment (e.g., questionnaire)
