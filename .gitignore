@@ -4,3 +4,5 @@ animations/experiment.blend
 animations/experiment.blend1
 images/blender/stage_one_exp.blend
 images/blender/stage_one_exp.blend1
+*.blend
+*.blend1
