@@ -1,4 +1,4 @@
-# The use of mixed reality to control collaborative robots
+# Replication Package
 This is the replication package for the paper entitled "Evaluating mixed reality widgets for manual control of industrial robots", submitted to THRI 2024.
 
 We divided this package into directories as follows:
